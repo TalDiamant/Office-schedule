@@ -5,7 +5,7 @@ easy-to-use schedule planner for office meetings
 HTML, CSS, Javascript, React, MySQL, promise-mysql
 
 ## Screenshot:
-![screenshot](myappointments/public/images/office-schedule.PNG)
+![screenshot](myappointments.client/public/images/office-schedule.PNG)
 
 ## Getting Started
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

@@ -1,0 +1,58 @@
+.App{
+  background-image: url(https://c.wallhere.com/photos/af/d8/office_room_style_wall_modern_design-1078596.jpg!d);
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 57rem;
+  background-size: cover;
+}
+
+#root {
+  margin: 0;
+  font-family: 'Nunito Sans', sans-serif;
+  color: rgb(88, 86, 86);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  font-weight: bolder
+  
+}
+
+.card {
+  text-align: left;
+  margin: 1.5rem;
+  padding: 0.5rem;
+  border: 1px solid #ffc107!important;
+}
+
+.add{
+  width: 25%;
+  margin: auto;
+  text-align: center;
+  padding:10px
+}
+
+.Appointment
+{
+  width: 22rem;
+  height: 5rem;
+  border-radius: 15px;
+  margin: 10px;
+  color: black;
+  margin-bottom: 5rem;
+  margin-top: 1rem;
+  float: left;
+}
+
+.list{
+  margin-top: 10px;
+  width: 90%;
+  margin: auto;
+}
+
+input.form-control, .custom-select{
+  margin-bottom: 0.2rem
+}
+
+button.btn.btn-outline-warning {
+  margin-top: 1rem;
+}

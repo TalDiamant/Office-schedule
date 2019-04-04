@@ -1,4 +1,4 @@
-# Movies search
+# Office schedule
 easy-to-use schedule planner for office meetings
 
 ## Built With:
